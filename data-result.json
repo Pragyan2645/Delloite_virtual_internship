@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1755757800000,
+    "text": "Hello world"
+  },
+  {
+    "id": 2,
+    "timestamp": 1755758100000,
+    "text": "Another message"
+  },
+  {
+    "id": 3,
+    "timestamp": 1755777600000,
+    "text": "Hi from format2"
+  },
+  {
+    "id": 4,
+    "timestamp": 1755777900000,
+    "text": "Second msg format2"
+  }
+]

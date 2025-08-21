@@ -1,0 +1,5 @@
+[
+    { "msg_id": 3, "time_ms": 1755777600000, "body": "Hi from format2" },
+    { "msg_id": 4, "time_ms": 1755777900000, "body": "Second msg format2" }
+  ]
+  
